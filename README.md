@@ -1,3 +1,41 @@
+## ReactJS Chapter 12
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
+## Source
+### Dave Gray 的 Reactjs 課程
+https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
+### Dave Gray 的 YouTube 頻道
+https://www.youtube.com/@DaveGrayTeachesCode
+
+## ReactJS Chapter 12
+   Quick Concept outline
+   中文摘要說明與重點提問
+   
+###  1. Intro 
+        教學影片固定的開頭和摘要說明
+
+###  2. What is JSON-Server?
+        在 npm.com 搜尋 json-server
+
+###  3. NPX instead of NPM
+        說明為什麼教材使用 NPX
+
+###  4. Creating the starter JSON data <Code更動>
+        在 data 資料夾 新增 db.json 並輸入資料。
+
+###  5. Launching JSON-Server
+        在 git bash 輸入 npx json-server -p 3500 -w data/db.json
+        p: port
+        w: watch
+
+###  6. Sending GET requests
+        傳送 GET request
+
+###  7. JSON-Server endpoints and request types
+        說明不同種類的 request
+        get request, post request, patch request, delete request
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
